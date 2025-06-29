@@ -1,0 +1,4 @@
+.idea
+*.pyc
+*/.pytest_cache
+pytest_features/tests_results/*
